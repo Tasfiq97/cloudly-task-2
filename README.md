@@ -1,13 +1,20 @@
 # React + Vite
 
-##All the Technologies and tools are used :
-react: 18.2.0,
-mui: 5.15.18,
-reduxjs/toolkit: 2.2.5,
-axios: 1.7.2,
-react-dom: 18.2.0,
-react-redux: 9.1.2,
-react-router-dom: 6.23.1
+# All the Technologies and tools are used :
+
+### React: 18.2.0,
+
+### mui: 5.15.18,
+
+### reduxjs/toolkit: 2.2.5,
+
+### axios: 1.7.2,
+
+### react-dom: 18.2.0,
+
+### react-redux: 9.1.2,
+
+### react-router-dom: 6.23.1
 
 in the project directory, you can run:
 
