@@ -1,6 +1,6 @@
 # React + Vite
 
-# All the Technologies and tools are used :
+## All the Technologies and tools are used :
 
 ### React: 18.2.0,
 
